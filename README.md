@@ -1,2 +1,4 @@
-
-<video src="https://raw.githubusercontent.com/USERNAME/REPO/main/avtomaticheskij_poliv_komnatnyh_rastenij_arduinokit.mp4" controls></video>
+<video width="640" height="360" controls>
+  <source src="your-video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
